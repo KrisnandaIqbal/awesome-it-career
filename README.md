@@ -1,13 +1,13 @@
 # IT Career Path
 
-- AI Engineer
-- Cloud Computic Engineer
-- Cyber Security Engineer
-- Data Science Engineer
-- DevOps Engineer
-- Machine Learning Engineer
-- Networking Engineer
-- System Administrator
-- UI/UX
-- Frontend Development
-- Backend Development
+- [AI Engineer](https://link) 
+- [Cloud Computic Engineer](https://link)
+- [Cyber Security Engineer](https://link)
+- [Data Science Engineer](https://link)
+- [DevOps Engineer](https://link)
+- [Machine Learning Engineer](https://link)
+- [Networking Engineer](https://link)
+- [System Administrator](https://link)
+- [UI/UX](https://link)
+- [Frontend Development](https://link)
+- [Backend Development](https://link)
