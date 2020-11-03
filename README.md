@@ -20,23 +20,44 @@
 - [Blockchain Developer](https://github.com/mrofisr/awesome-it-career/tree/main/dir/)
 - [IoT Engineer](https://github.com/mrofisr/awesome-it-career/tree/main/dir/)
 - [System Analyst](https://github.com/mrofisr/awesome-it-career/tree/main/dir/) 
-
+- [IT Auditor](https://link)
 ## Non Technical Resource
-<details>
-<summary>Podcast</summary>
-
-- [Podcast teh atau kopi](https://hilman.space/tehataukopi)
-- [Developer Muslim Podcast](https://hilman.space/tehataukopi)
-</details>
-<details>
-<summary>Blog</summary>
-
-- [Hidup Lebih Produktif](https://sekolahkoding.com/buku/hidup-lebih-produktif)
-- [Hadiah Untuk Programmer](https://sekolahkoding.com/buku/hadiah-untuk-programmer)
-</details>
 <details>
 <summary>Twitter Account</summary>
 
 - [Podcast teh atau kopi](https://hilman.space/tehataukopi)
 - [Developer Muslim Podcast](https://hilman.space/tehataukopi)
+</details>
+<details>
+<summary>Reader</summary>
+
+- [Hidup Lebih Produktif](https://sekolahkoding.com/buku/hidup-lebih-produktif)
+- [Hadiah Untuk Programmer](https://sekolahkoding.com/buku/hadiah-untuk-programmer)
+- [DEV](https://dev.to)
+</details>
+<details>
+<summary>Podcast</summary>
+
+- [Podcast teh atau kopi](https://hilman.space/tehataukopi)
+- [Developer Muslim Podcast](https://devmuslim.id/)
+- [Kode Nol](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY)
+- [Imre Nagi Podcast](https://anchor.fm/ngobrolinstartup)
+<details>
+<summary>Youtube</summary>
+
+- [Imre Nagi](https://www.youtube.com/channel/UCC7eynhXsqH-7RdsBB1E53g)
+- [Sekolah Koding](https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA)
+- [Web Programming UNPAS](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg)
+- [Riza Fahmi](https://www.youtube.com/user/ryanriggsy)
+- [Kelas Terbuka](https://www.youtube.com/user/faqihzamukhlish)
+- [Ariya Hidayat](https://www.youtube.com/user/ariyahidayat)
+</details>
+</details>
+<details>
+<summary>Telegram Group</summary>
+
+- [Podcast teh atau kopi](https://hilman.space/tehataukopi)
+- [Developer Muslim Podcast](https://devmuslim.id/)
+- [Kode Nol](https://open.spotify.com/show/0919qUs3HI9pgoKENxC5VY)
+- [Imre Nagi Podcast](https://anchor.fm/ngobrolinstartup)
 </details>
