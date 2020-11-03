@@ -20,7 +20,6 @@
 - [Blockchain Developer](https://github.com/mrofisr/awesome-it-career/tree/main/dir/)
 - [IoT Engineer](https://github.com/mrofisr/awesome-it-career/tree/main/dir/)
 - [System Analyst](https://github.com/mrofisr/awesome-it-career/tree/main/dir/) 
-
-
+<span></span>
 ## Non Technical Resource
 - [text](https://link)
