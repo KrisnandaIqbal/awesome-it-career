@@ -20,6 +20,20 @@
 - [Blockchain Developer](https://github.com/mrofisr/awesome-it-career/tree/main/dir/)
 - [IoT Engineer](https://github.com/mrofisr/awesome-it-career/tree/main/dir/)
 - [System Analyst](https://github.com/mrofisr/awesome-it-career/tree/main/dir/) 
-<span></span>
+
 ## Non Technical Resource
-- [text](https://link)
+<details>
+<summary>Podcast</summary>
+  - [Podcast teh atau kopi](https://hilman.space/tehataukopi)
+  - [Developer Muslim Podcast](https://hilman.space/tehataukopi)
+</details>
+<details>
+<summary>Blog</summary>
+  - [Hidup Lebih Produktif](https://sekolahkoding.com/buku/hidup-lebih-produktif)
+  - [Hadiah Untuk Programmer](https://sekolahkoding.com/buku/hadiah-untuk-programmer)
+</details>
+<details>
+<summary>Twitter Account</summary>
+  - [Podcast teh atau kopi](https://hilman.space/tehataukopi)
+  - [Developer Muslim Podcast](https://hilman.space/tehataukopi)
+</details>
