@@ -17,6 +17,7 @@
 - [Business Analysist](https://github.com/mrofisr/awesome-it-career/tree/main/dir/BusinessAnalyst.md)
 - [SEO Specialist](https://github.com/mrofisr/awesome-it-career/tree/main/dir/SEO.md)
 - [Digital Marketing](https://github.com/mrofisr/awesome-it-career/tree/main/dir/DigitalMarketing.md)
+- [Project Manager](https://github.com/mrofisr/awesome-it-career/tree/main/dir/PM.md)
 - [Blockchain Developer](https://github.com/mrofisr/awesome-it-career/tree/main/dir/BlockChain.md)
 - [IoT Engineer](https://github.com/mrofisr/awesome-it-career/tree/main/dir/IoT.md)
 - [System Analyst](https://github.com/mrofisr/awesome-it-career/tree/main/dir/SystemAnalyst.md) 
