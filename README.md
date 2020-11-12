@@ -85,5 +85,5 @@
 <details>
 <summary>Telegram Group</summary>
 
-- You can find lot of Indonesia IT Comunity Group in [here](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
+- You can find lot a of Indonesia IT Comunity Group in [here](https://github.com/hendisantika/List-All-Programming-Telegram-Group)
 </details>
