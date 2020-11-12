@@ -1,5 +1,7 @@
 # IT Career Path
 
+![Technology](https://image.freepik.com/free-vector/illustration-social-media-concept_53876-17855.jpg)
+
 - [AI Engineer](https://github.com/mrofisr/awesome-it-career/tree/main/dir/AI.md) 
 - [Cloud Computic Engineer](https://github.com/mrofisr/awesome-it-career/tree/main/dir/Cloud.md)
 - [Cyber Security](https://github.com/mrofisr/awesome-it-career/tree/main/dir/CyberSec.md)
